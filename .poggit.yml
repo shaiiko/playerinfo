@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   playerinfo:
-    path: ""
+    path: "playerinfo"
 ...
